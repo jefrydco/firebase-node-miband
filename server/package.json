@@ -1,0 +1,17 @@
+{
+  "name": "Adumb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^8.2.0",
+    "http": "^0.0.0",
+    "lodash.initial": "^4.1.1",
+    "miband": "^0.1.4",
+    "webbluetooth": "^1.1.1",
+    "websocket": "^1.0.29"
+  }
+}
